@@ -7,7 +7,7 @@ ORG:Valo Motion;
 TITLE:Sales Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:michael@valomotion.com
 TEL;type=WORK;type=VOICE:+358 45 121 4950
-item1.ADR;type=WORK;type=pref:;;Tekniikantie 2\nSandcrawler\, 09-01;;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;Tekniikantie 2\n02150 Espoo\, Finland;;;;
 item1.X-ABADR:sg
 item2.URL;type=pref:valomotion.com
 item2.X-ABLabel:_$!<HomePage>!$_
